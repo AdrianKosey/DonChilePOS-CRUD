@@ -1,0 +1,29 @@
+# Sensitive files
+.env
+config.php
+*.key
+*.pem
+
+# Databases
+*.sqlite
+*.db
+*.sql
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# External libraries
+vendor/
+node_modules/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
